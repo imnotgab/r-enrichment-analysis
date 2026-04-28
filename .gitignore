@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+*.pdf
+*.png
+
+data/
+*.txt
+wyniki_enrichment_nerka.csv
